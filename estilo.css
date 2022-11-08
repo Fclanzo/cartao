@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+}
+
+
+.avatar{
+
+    width: 130px;
+    margin: 150px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 5px #f3eff0 double;
+    border-radius: 100px;
+
+}
+
+
+body{
+
+    /* background-color:#330713; */
+    background-image: url('fundotest1.jpg');
+    background-repeat: no-repeat;
+    background-size: 1650px;
+    color:#f3b5db;
+    text-align: center;
+    font-family: tahoma;
+}
+
+
+
+.titulo{
+    color:#66655A;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.botao{
+    text-decoration: none;
+    border: 1px solid rgba(206, 188, 188, 0.836);
+    display: inline-block;
+    margin-top: 8px;
+    width: 500px;
+    color: blanchedalmond;
+    border-radius: 0px;
+    line-height: 30px;
+}
+
+
+.mini{
+    color:#66655A;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+    font-weight: 20;
+    font-style: normal;
+}
+
+.iconemini{
+    font-size: 500px;
+    width: 50px;
+    position: left;
+}

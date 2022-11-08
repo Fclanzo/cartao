@@ -40,12 +40,15 @@ body{
 .botao{
     text-decoration: none;
     border: 1px solid rgba(206, 188, 188, 0.836);
-    display: inline-block;
+    display: block;
     margin-top: 8px;
-    width: 500px;
+    width: 400px;
     color: blanchedalmond;
-    border-radius: 0px;
-    line-height: 30px;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    justify-content: center;
+
 }
 
 
@@ -60,5 +63,7 @@ body{
 .iconemini{
     font-size: 500px;
     width: 50px;
-    position: left;
+    position: center;
+    float: left;
+    text-align: center;
 }
